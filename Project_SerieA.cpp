@@ -1,4 +1,4 @@
-//Autore: Carmelo Panepinto - Simulatore Calcio Serie A 2023/2024
+//Autore: Carmelo Panepinto - Simulatore Calcio campionato Serie A 2023/2024
 #include <iostream>
 #include <string>
 #include <vector>
